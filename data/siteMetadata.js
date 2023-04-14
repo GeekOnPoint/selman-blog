@@ -7,8 +7,8 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.seniaselman.com',
   siteRepo: 'https://github.com/GeekOnPoint/selman-blog',
-  siteLogo: '/static/images/logo.svg',
-  image: '/static/images/avatar.png',
+  siteLogo: '/static/images/logo.png',
+  image: '/static/images/avatar.jpeg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'selmanphd@gmail.com',
   github: 'https://github.com',

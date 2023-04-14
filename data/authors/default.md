@@ -1,6 +1,6 @@
 ---
 name: Senia Selman
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.jpeg
 occupation: Data Manager
 company: TNTP (The new teacher project)
 email: selmanphd@gmail.com
