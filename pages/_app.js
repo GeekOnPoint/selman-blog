@@ -25,7 +25,7 @@ export default function App({ Component, pageProps }) {
       <Analytics />
       <LayoutWrapper>
         // <Component {...pageProps} />
-        <div>Hello<div>
+        <div>Hello</div>
       </LayoutWrapper>
     </ThemeProvider>
   )
